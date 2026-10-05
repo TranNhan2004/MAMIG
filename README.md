@@ -87,11 +87,16 @@ At 50% missing, the four induced modality patterns are exactly balanced at 40 in
 The repository includes a web interface for examining observed nodes and learned graph structure at the instance level.
 
 <p align="center">
-  <img src="assets/node_selection_interface.png" alt="MAMIG node-selection interface" width="48%">
-  <img src="assets/graph_view.png" alt="MAMIG representative graph views" width="48%">
+  <img src="assets/node_selection_interface.png" alt="MAMIG node-selection interface" width="80%">
 </p>
 
-<p align="center"><em>The interface supports node-level inspection and visualization of modality-specific graph structure and displayed edge weights.</em></p>
+<p align="center">
+  <img src="assets/graph_view.png" alt="MAMIG representative graph views" width="90%">
+</p>
+
+<p align="center">
+  <em>The interface supports node-level inspection and visualization of modality-specific graph structure and displayed edge weights.</em>
+</p>
 
 ## Experimental settings at a glance
 
